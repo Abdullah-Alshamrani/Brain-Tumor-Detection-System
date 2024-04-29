@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "GradProjectCode",
+			"path": "."
+		},
+		{
+			"name": "BT-New dataset",
+			"path": "../Graduation Project/BT-New dataset"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "GradProjectCode"
+	}
+}
