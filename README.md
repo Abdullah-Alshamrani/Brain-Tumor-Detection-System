@@ -1,12 +1,20 @@
 # Brain-Tumor-Detection-System
-This project aids doctors in diagnosing whether a patient has a brain tumor and identifying its stage. 
+'Brain Tumor Detection System' –  accurate diagnosis from medical images. Our system revolutionizes the detection process, saving valuable time and expertise. Boasting an impressive 97.17% accuracy rate, our model excels at pinpointing tumor regions, minimizing the risk of false results.
+
++ user-friendly interface, featuring just two pages: one for uploading images and the other for viewing results. Backed by AI technology to give a simple advice if result shown as positive.
+
+
+
 
 
 # Detailed Project Description:
-This project should present a view of the brain and its condition regarding tumors. A medical image will be uploaded to a web page, and it should output the brain tumor classifications, whether the brain has tumors or not, this will be performed by using traditional machine learning methods and deep learning models, and depending on the result, a simple advice will be shown to the user by using ChatGPT API. Machine learning will be trained through a provided publicly available dataset through Kaggle [1].
+Utilizing a combination of traditional machine learning methods and advanced deep learning models (Nural Networks), our system ensures accuracy and reliability in diagnosis. We've trained our machine learning algorithms with a publicly available dataset sourced from Kaggle, ensuring robust performance.
+
+Upon analysis, our system provides clear results, accompanied by simple advice. Powered by the ChatGPT API, our advice feature adds an extra layer of insight to guide users through their next steps.
+
 
 # Detailed Outline:
-1) Using Google Colab data will be entered to introduce exploratory data analysis (EDA).
+1) Using good enviroment for data so it will be entered to introduce exploratory data analysis (EDA).
 2) Data preprocessing, comparison of traditional machine learning and deep learning models.
 3) Focus on convolutional neural networks by using Python to choose the most optimal machine learning model.
 4) A design of the interface should introduce the user to a web page that asks the user to input a medical image of the brain.
@@ -17,4 +25,4 @@ This project should present a view of the brain and its condition regarding tumo
 
 
 # Reference:
-1) https://www.kaggle.com/datasets/jakeshbohaju/brain-tumor/data
+1) [https://www.kaggle.com/datasets/jakeshbohaju/brain-tumor/data](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection/data)
